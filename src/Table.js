@@ -95,7 +95,7 @@ const Table = props => (
         minWidth: 50
       },
       {
-        Header: "€/ct",
+        Header: "$/ct",
         accessor: "Price Per Carat",
         minWidth: 70
       },
